@@ -14,11 +14,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tian11111/robocup-2026-wheeled-combat">RoboCup 2026</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tian11111/wheeled-combat-simulator">Combat Simulator</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tian11111/pocket-ttl-monitor">Pocket TTL Monitor</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tian11111/omnibot-f4">Omnibot F4</a>
+  <sub>— FEATURED PROJECTS —</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tian11111/robocup-2026-wheeled-combat"><b>RoboCup 2026 轮式格斗机器人</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/tian11111/wheeled-combat-simulator"><b>轮式格斗仿真器</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tian11111/pocket-ttl-monitor">Pocket TTL 串口调试器</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/tian11111/omnibot-f4">Omnibot F4 全向物流小车</a>
 </p>
